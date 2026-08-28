@@ -18,6 +18,8 @@ A standalone music player for Cuphead that automatically detects the current sce
 3. Launch Cuphead and the music will follow the scenes.
 
 ## To-do
-- Add main category presets so you don't have to add manually
+- Add main category presets so you don't have to add scenes manually
+- Add better storage system so files won't be lost
+- Functionality to add different "groups" of songs depending on your vibe lol 
 
 Original version for livesplit on https://github.com/zulanthecolossus999-pixel/CupheadMusicPlayer
