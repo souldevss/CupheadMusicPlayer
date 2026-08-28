@@ -21,4 +21,4 @@ A standalone music player for Cuphead that automatically detects the current sce
 
 - Requires the game running with its memory accessible for scene detection.
 
-Original version by a friend.
+Original version for livesplit on https://github.com/zulanthecolossus999-pixel/CupheadMusicPlayer
