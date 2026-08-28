@@ -17,8 +17,7 @@ A standalone music player for Cuphead that automatically detects the current sce
 2. Open **Edit Scenes...** to assign a music file to each scene you want to hear.
 3. Launch Cuphead and the music will follow the scenes.
 
-## Notes
-
-- Requires the game running with its memory accessible for scene detection.
+## To-do
+- Add main category presets so you don't have to add manually
 
 Original version for livesplit on https://github.com/zulanthecolossus999-pixel/CupheadMusicPlayer
